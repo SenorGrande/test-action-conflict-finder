@@ -1,2 +1,6 @@
 first line
+<<<<<<< HEAD
 new line in master branch
+=======
+new line added in edit-test-feature branch
+>>>>>>> edit-test-file
